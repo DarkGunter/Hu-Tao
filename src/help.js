@@ -80,7 +80,7 @@ No te olvides de seguirme en instagram flaco :)
 Para saber la ultima version mas actual del bot entra en 
 https://github.com/shanduy/ShanBot
 
-by shanduy
+by Dark Gūnter ♠️
 `
 }
 
