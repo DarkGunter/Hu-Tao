@@ -1,13 +1,11 @@
 const help = (prefix) => {
 	return `
-「 *ShanBot by shanduy* 」
+「 *Hu Tao * 」
 
 ◪ *INFORMACION*
   ❏ Comando: 「  ${prefix}  」
-  ❏ Creador: Shanduy
-  ❏ Como instalar el bot: https://www.youtube.com/watch?v=2LQSzEbpJ-M
-  ❏ Instagram: https://www.instagram.com/thepavos
-
+  ❏ Creador: Dark Gūnter ♠️
+ 
 ◪ *PARA USAR EL BOT*
   ❏ Registrate con el comando ${prefix}daftar y tu nombre
 
