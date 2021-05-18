@@ -1,7 +1,7 @@
-# ShanBot Bot Para Whatsapp by shanduy
+# Hu Tao Bot Para Whatsapp 
 
 <p align="center">
-<img src="https://media.giphy.com/media/1dJWnCZBCE7gcFwLvk/giphy.gif" alt="GIF" width="210" height="210"/>
+<img src="https://pin.it/DiPVP4r" alt="GIF" width="210" height="210"/>
 </p>
 <p align="center">
 <a href="#"><img title="ShanBot" src="https://img.shields.io/badge/ShanBot -purple?colorA=%cc33ff&colorB=%cc33ff&style=for-the-badge"></a>
@@ -145,6 +145,5 @@ Si despues que ya instalastes tu bot y termux te salta en blanco, solo realizara
 
 
 
-## by shanduy
 
 
