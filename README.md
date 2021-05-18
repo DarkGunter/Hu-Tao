@@ -1,7 +1,7 @@
 # Hu Tao Bot Para Whatsapp 
 
 <p align="center">
-<img src="https://pin.it/DiPVP4r" alt="GIF" width="210" height="210"/>
+<img src="https://pbs.twimg.com/profile_images/1365590220868100099/jfzIIQfY.jpg" alt="GIF" width="210" height="210"/>
 </p>
 <p align="center">
 <a href="#"><img title="ShanBot" src="https://img.shields.io/badge/ShanBot -purple?colorA=%cc33ff&colorB=%cc33ff&style=for-the-badge"></a>
