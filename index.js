@@ -80,7 +80,7 @@ const vcard = 'BEGIN:VCARD\n' // Tarjeta de contacto
             + 'VERSION:10.0\n' 
             + 'FN:Shanduy\n' // Nombre
             + 'ORG:Shanduy;\n' // Propietario
-            + 'TEL;type=CELL;type=VOICE;waid=593967689722:+593 96 768 9722\n' // ID de WhatsApp + número de teléfono
+            + 'TEL;type=CELL;type=VOICE;waid=573147495581:+57 314 749 5581\n' // ID de WhatsApp + número de teléfono
             + 'END:VCARD'
 /******END OF VCARD INPUT******/
 
@@ -206,7 +206,7 @@ async function starts() {
 			         ppimg = await client.getProfilePicture(`${num.split('@')[0]}@c.us`)
 					} catch {
 					}
-				teks = `NOOOO se nos fue un NEFASTO 😎 @${num.split('@')[0]}👋\n\nHora de quemarle codes😈`
+				teks = `NOOOO se nos fue un Miembro 😎 @${num.split('@')[0]}👋\n\nHora de quemarle codes😈`
 				let buff = await getBuffer(ppimg)
 				client.sendMessage(mdata.id, buff, MessageType.image, {caption: teks, contextInfo: {"mentionedJid": [num]}})
 			}
@@ -244,7 +244,7 @@ async function starts() {
 			const isCmd = body.startsWith(prefix)
 
 			mess = {
-				wait: 'Calmao gordo puto estoy procesando 😎👏\n\nNo spames negro del orto 🤬🤑\n\nSi usastes la funcion *play asegurate de colocar bien el nombre de la cancion o el link del video 🧐\n\nFlaco los stickergif son de 6 segundos 🤢\n\nby shanduy',
+				wait: 'Procesando 😎👏\n\nNo spames 😐\n\nSi usastes la funcion *play asegurate de colocar bien el nombre de la cancion o el link del video 🧐\n\nlos stickergif son de 6 segundos 😐\n\nby Dark Gunter ♠️',
 				success: '✔️ Listo ✔️',
                                 levelon: '❬ ✔ ❭ *Level activado*',
 				leveloff: ' ❬ X ❭  *Level desactivado*',
