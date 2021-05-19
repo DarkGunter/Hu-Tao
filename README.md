@@ -1,4 +1,4 @@
-# Hu Tao Bot Para Whatsapp 
+# Hu-Tao Bot Para Whatsapp 
 
 <p align="center">
 <img src="https://pbs.twimg.com/profile_images/1365590220868100099/jfzIIQfY.jpg" alt="GIF" width="210" height="210"/>
@@ -6,7 +6,7 @@
 
 
 
-# Hu Tao Bot
+# Hu-Tao 
 
 
 
@@ -36,4 +36,3 @@ Te dara un nuevo codigo y lo escaneas con tu numero del bot y ya estara la actua
 
 
 
-## 
