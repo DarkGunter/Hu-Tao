@@ -1,4 +1,4 @@
 const config = {
-        botName: 'Hu Tao',
+        botName: 'Hu-Tao',
         ownerName: 'Dark Gūnter ♠️',
 }
